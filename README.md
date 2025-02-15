@@ -4,7 +4,7 @@ I’m a passionate Software Engineer with a **Bachelor’s degree in Software En
 
 ### 🚀 A bit about me:
 - **Founder @ Sightcom**: Since 2020, I’ve been leading Sightcom, a startup focused on innovative **image analysis** solutions. We aim to harness AI’s potential to create impactful tools that drive efficiency and accuracy.
-- **Upcoming AI Intern @ CHOP**: In March, I’ll be joining the **Children’s Hospital of Philadelphia** as an AI intern, where I’ll work alongside experts to apply AI to complex research challenges.
+- **Upcoming Intern @ CHOP**: In March, I’ll be joining the **Children’s Hospital of Philadelphia** as a computer vision intern, where I’ll work alongside experts to apply my knowledge to complex research challenges.
 
 ### 📄 Recent Research:
 I recently published a **research paper** at the GreenAI convention, which you can find in my repositories. This work reflects my commitment to exploring AI’s role in creating sustainable and efficient solutions.
