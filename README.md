@@ -1,32 +1,50 @@
-# 👋 Hello! Welcome to my GitHub profile!
+# 👋 Hello and welcome to my GitHub profile!
 
-I’m a passionate Software Engineer with a **Bachelor’s degree in Software Engineering** and currently completing my **Master’s degree with a 4.0 GPA**, specializing in **Big Data and Artificial Intelligence**. I’m deeply interested in using AI to solve real-world challenges across various fields and industries.
+I’m Leonardo Pampaloni, a passionate AI Engineer and Researcher with a background in **Software Engineering** and a deep focus on **Efficient Deep Learning, 3D Vision, and Benchmarking**.
 
-## 🚀 A bit about me:
-- **Researcher @ University of Florence (UNIFI)**: I’m currently a researcher at **UNIFI**, working on cutting-edge AI and cloud computing research, particularly in **Kubernetes efficiency and resource optimization**.
-- **Founder @ Sightcom**: Since 2020, I’ve been leading Sightcom, a startup focused on innovative **image analysis** solutions. We aim to harness AI’s potential to create impactful tools that drive efficiency and accuracy.
-- **Upcoming Intern @ CHOP**: In March, I’ll be joining the **Children’s Hospital of Philadelphia** as a computer vision intern, where I’ll work alongside experts to apply my knowledge to complex research challenges.
+## 🚀 About Me
 
-## 📄 Recent Research:
-I’m actively working on a **research paper** related to energy efficiency in Kubernetes, investigating how **Horizontal Pod Autoscaler (HPA) optimizations** can lead to significant energy savings. This follows my previous publication at the **GreenAI convention**, which explored AI’s role in sustainability.
+- 🎓 **M.Sc. in Software Engineering (4.0 GPA)**  
+  Specialized in **Big Data and Distributed Systems** at the University of Florence.
 
-## 🔧 Core Skills & Interests:
-- **Programming**: Python is my primary language, particularly for advanced AI applications.
-- **Specialization**: Developing data-driven models and leveraging AI to improve decision-making and scalability across diverse sectors.
-- **Cloud & Distributed Systems**: Designing scalable architectures and optimizing **Kubernetes** workloads for efficiency.
+- 🧠 **Researcher @ University of Florence**  
+  Working on **efficient AI pipelines, energy-aware benchmarking**, and scalable system design.  
+  My recent work includes a publication at **ICSE/GREENS 2025** on energy benchmarking of ML across languages.
 
-## 🎯 My Focus
-I’m focused on creating adaptable and high-impact AI solutions, with an emphasis on scalability and efficiency. My work spans different domains where AI can drive transformative change.
+- 🏥 **Former Research Intern @ CHOP (Children’s Hospital of Philadelphia)**  
+  Developed and deployed 3D facial reconstruction pipelines using deep learning for clinical diagnostics.  
+  Focused on **geometric/topological benchmarking, reproducibility, and deployment optimization**.
 
-## 🌱 Currently Learning
-Continuously expanding my knowledge, especially around **Big Data architectures**, **cloud-native AI**, and **efficient AI deployment strategies**.
+- 🧪 **Founder @ Sightcom**  
+  Since 2020, I’ve been leading a startup focused on innovative AI-driven solutions in medical imaging and visual analysis.
 
-## 📫 Let’s Connect!
-Reach out if you’re interested in collaboration, discussing AI trends, or exploring new tech! I’m always excited to connect and share ideas.
+## 📄 Publications & Projects
+
+- 📘 *Green AI: Which Programming Language Consumes the Most?*  
+  Published at ICSE/GREENS 2025 — benchmarking ML workloads across Python, C++, Rust, and others.
+
+- 🧱 *FaceBench* — 3D face reconstruction evaluation library  
+  Modular Python framework for mesh alignment, dense error metrics, and 3D diagnostics.
+
+- ⚡ *DeepGreen* — cross-language benchmark framework for training & inference energy profiling.
+
+## 🔧 Technical Focus
+
+- **Languages**: Python (main), C++, Rust (for performance analysis)
+- **Frameworks**: PyTorch, ONNX, TensorRT, Kubernetes, Docker
+- **Specialties**: Efficient ML, benchmark design, 3D vision, cloud-native deployment
+
+## 🎯 Current Interests
+
+- 🧠 Efficient deployment of LLMs and 3D vision models
+- 🧩 Energy-conscious AI infrastructure
+- 🔬 Translational research and ML for real-world impact
+
+## 🌍 Let’s connect!
+
+I'm open to collaborations in AI research, product-focused ML systems, and academic-industry ventures.  
+Feel free to reach out or explore my pinned repositories!
 
 ---
 
-Thanks for stopping by! 😊 🚀
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+Thanks for stopping by! 🚀
