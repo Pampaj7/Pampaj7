@@ -11,7 +11,7 @@ I’m Leonardo Pampaloni, a passionate AI Engineer and Researcher with a backgro
   Working on **efficient AI pipelines, energy-aware benchmarking**, and scalable system design.  
   My recent work includes a publication at **ICSE/GREENS 2025** on energy benchmarking of ML across languages.
 
-- 🏥 **Ai & Computer Eision Engineer @ CHOP (Children’s Hospital of Philadelphia)**  
+- 🏥 **Ai & Computer Vision Engineer @ CHOP (Children’s Hospital of Philadelphia)**  
   Developed and deployed 3D facial reconstruction pipelines using deep learning for clinical diagnostics.  
   Focused on **geometric/topological benchmarking, reproducibility, and deployment optimization**.
 
